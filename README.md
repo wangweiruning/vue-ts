@@ -1,2 +1,22 @@
-# vue-ts
-vue中使用ts vuex vuex-class模板
+# vue-internationalization
+
+> vue.js结合vue-i18n国际化demo
+[介绍博客:https://blog.csdn.net/Fabulous1111/article/details/79493825](https://blog.csdn.net/Fabulous1111/article/details/79493825)
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
